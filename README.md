@@ -3,9 +3,9 @@ A soft UI music and clock widget built with vanilla HTML, CSS, and JavaScript. N
 
 ---
 
-## Preview
-
-Upload any album cover and watch the entire widget adapt its color to match.
+## Live Demo
+View Live 🌐
+https://ankamahjohnson.github.io/neumorphic.widget/
 
 ---
 
