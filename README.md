@@ -57,4 +57,5 @@ Upload any album cover and watch the entire widget adapt its color to match.
 
 ---
 
-## File Structure
+## 📝
+Made with ❤️ as a frontend practice project.
