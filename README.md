@@ -13,7 +13,6 @@ https://ankamahjohnson.github.io/neumorphic.widget/
 
 ### Clock
 - Live analog clock with real-time ticking hands
-- Second hand and center dot always visible — darkened variant of the album's dominant color
 - Color syncs and transitions smoothly on every track change
 
 ### Music Player
@@ -31,8 +30,7 @@ https://ankamahjohnson.github.io/neumorphic.widget/
 
 ### Dynamic Color Theming
 - Extracts the dominant color from the uploaded album cover using the Canvas API
-- Skips pixels that are too dark or too light for a more accurate result
-- Tints the entire widget — background, shadows, accent, progress fill — to match the album mood
+- Tints the entire widget — background, shadows, accent, progress fill to match the album mood
 - Second hand uses a darkened variant of the accent so it stays visible on any background
 - Smooth 1s CSS transitions on every color change
 
